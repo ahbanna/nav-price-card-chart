@@ -1,0 +1,32 @@
+.single-card {
+  background: #062c51;
+  color: #fff64c;
+  text-align: center;
+  border-radius: 10px;
+  padding: 50px 50px;
+  position: relative;
+  min-height: 550px;
+}
+.single-card h3 {
+  font-size: 50px;
+  font-weight: 700;
+}
+.single-card span {
+  font-size: 28px;
+}
+.single-card h2 {
+  font-size: 40px;
+  font-weight: 500;
+}
+.single-card h4 {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 600;
+  text-decoration: underline;
+  margin: 30px 0 10px 0;
+}
+button.buy-now-btn {
+  position: absolute;
+  bottom: 20px;
+  left: 25%;
+}

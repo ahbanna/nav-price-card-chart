@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "planName": "Basic",
+    "price": 10,
+    "features": [
+      "Access to cardio equipment",
+      "Weight lifting machines",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 2,
+    "planName": "Premium",
+    "price": 20,
+    "features": [
+      "Access to cardio equipment",
+      "Weight lifting machines",
+      "Locker room access",
+      "Access to group fitness classes",
+      "Personal training sessions"
+    ]
+  },
+  {
+    "id": 3,
+    "planName": "Elite",
+    "price": 30,
+    "features": [
+      "Access to cardio equipment",
+      "Weight lifting machines",
+      "Locker room access",
+      "Access to group fitness classes",
+      "Personal training sessions",
+      "Access to pool and sauna",
+      "Towel service"
+    ]
+  }
+]
